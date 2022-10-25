@@ -1,11 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=PT+Mono&color=43AFA2&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<div>
-<a href="https://gitlab.rtuitlab.dev/FlynnTaggart">
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" title="Gitlab" alt="Gitlab" width="20" height="20"/>  My RTUITLab GitLab profile
-</a>
-</div>
-
+[🦊 My RTUITLab GitLab profile](https://gitlab.rtuitlab.dev/FlynnTaggart)
 
 <!--
 **FlynnTaggart/FlynnTaggart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
